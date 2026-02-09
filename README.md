@@ -5,6 +5,15 @@ The project uses this object to think about early forms of accessibility and to 
 ## The object
 The object is an English New Testament (Authorized Version), printed in New York in 1850 by the American Bible Society. It consists of two volumes and was printed in high relief specifically for use by blind readers.
 Produced before Braille became widely adopted, the book represents an alternative tactile reading system in which readers traced the shapes of raised Roman letters with their fingers. Reading in this way would have been slow, physical, and highly dependent on touch.
+![Detail of raised Roman letters](media/raised-text-detail.jpg)
+
+*Figure 1. Close-up detail of raised Roman letters embossed into the page. The text was designed to be read through touch rather than sight.*
+![Open double-page spread](media/open-double-page.jpg)
+
+*Figure 2. An open double-page spread showing wide spacing and uniform letter height, supporting slow and deliberate tactile reading.*
+![Spine and page edges](media/spine.jpg)
+
+*Figure 3. The thickness of the volume and exposed page edges emphasise the physical weight and material presence of the book.*
 ## Why this object matters
 Although the physical form and purpose of the book are documented, little is known about how blind readers actually experienced reading it. This lack of experiential documentation makes the object especially difficult to digitise. Photographs and scans can show the raised letters, but they cannot convey the sensation of touch or the embodied effort involved in tactile reading.
 This object therefore raises broader questions about digitisation, accessibility, and loss: what aspects of historical reading practices can be preserved digitally, and what aspects resist capture?
